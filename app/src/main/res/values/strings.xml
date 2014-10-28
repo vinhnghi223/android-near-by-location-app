@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CreateTrips</string>
+    <string name="action_toggle_activity_main_fragment">Toggle Fragment Main Activity</string>
+    <string name="loadingText">fetching \n venues ..</string>
+
+    <string-array name="venuesTitles">
+        <item>Popular Venues</item>
+        <item>Art Venues</item>
+        <item>Education</item>
+        <item>Events</item>
+        <item>Food &amp; Restaurants</item>
+        <item>Hotels</item>
+        <item>Nightlife Spots</item>
+        <item>Outdoor Attractions</item>
+        <item>Professional Venues</item>
+        <item>Shop &amp; Services</item>
+        <item>Travel &amp; Trans</item>
+    </string-array>
+
+    <string-array name="venuesCategoriesTitles">
+        <item>Arts &amp; Entertainment</item>
+        <item>Residence &amp; Other</item>
+        <item>Travel &amp; Transportation</item>
+        <item>Shopping &amp; Retail</item>
+        <item>Sports &amp; Recreation</item>
+        <item>Professional Services</item>
+        <item>Food &amp; Restaurant</item>
+        <item>Community &amp; Government</item>
+        <item>Region</item>
+        <item>Nightlife</item>
+        <item>Home</item>
+        <item>Outdoors</item>
+        <item>Event</item>
+    </string-array>
+
+    <string name="title_activity_maps">Map</string>
+
+</resources>
