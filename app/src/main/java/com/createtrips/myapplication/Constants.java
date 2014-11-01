@@ -5,8 +5,8 @@ package com.createtrips.myapplication;
  */
 public class Constants {
     public static final int TRANSITION_DURATION=200;
-    public static final String FQ_API_CLIENT_ID = "51NMZPNXPIPMYZ2NGHBW1XS0M4X4LVCAUU2ASCUZDM2VBG1V";
-    public static final String FQ_API_CLIENT_SECRET = "2X2DX4GSUHP5KNXUSTSI5DSDO55RKAFP0OSH4F2JKQGZS0V4";
+    public static final String FQ_API_CLIENT_ID = "";
+    public static final String FQ_API_CLIENT_SECRET = "";
     public static final String FQ_API_CLIENT_VERSION = "20141010";
     public static final String FQ_API_CLIENT_MODE = "foursquare";
 
