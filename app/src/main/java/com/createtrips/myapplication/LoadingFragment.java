@@ -10,9 +10,6 @@ import android.view.animation.LinearInterpolator;
 import android.view.animation.RotateAnimation;
 import android.widget.ImageView;
 
-/*
- * Created by duykhiemhang on 08/10/14. A loading Fragment.
- */
 public class LoadingFragment extends Fragment {
 
     @Override
